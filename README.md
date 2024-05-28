@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" 
-      
+      ![gojo-gojo-satoru](https://github.com/ravidinejad/ravidinejad/assets/125472137/96b96cd0-81d2-4107-9a5b-3222ca118a2b)
 </p>
 
 <h2 align="center">Connect with me:</h2>
