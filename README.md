@@ -18,4 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravidinejad&" alt="ravidinejad" /></p>
 
-<p><img align="center" src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" /></p>
+![Animasi ular](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg)
+
