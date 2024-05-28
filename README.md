@@ -3,12 +3,7 @@
 
 <div align="center">
       
- <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/b47fca4a-4b0d-4a55-a64b-f3206b570325" width="300px">
-  
-
-    
-  
-
+ <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/953126a2-d1ae-4098-b705-520744012e77" width="300px">
 </div>
 
 <p align="center">
