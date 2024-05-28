@@ -2,9 +2,10 @@
 <h3 align="center">Jika kamu cari yang sempurna aku mundur, jika kamu cari mie ayam aku nitip</h3>
 
 <div align="center">
-    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
-    <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/4d21a095-38ea-4474-ad39-ac3b70a16832" width="300px">
-    <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/d049aaef-9d33-4028-beeb-ca3212873377" width="300px">
+      <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/4d21a095-38ea-4474-ad39-ac3b70a16832" width="300px">
+
+  
+    
   
 
 </div>
