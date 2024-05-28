@@ -2,8 +2,7 @@
 <h3 align="center">Jika kamu cari yang sempurna aku mundur, jika kamu cari mie ayam aku nitip</h3>
 
 <div align="center">
-    <img src="![Uploading image.png…]()
-" width="300px">
+    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
 </div>
 
 <p align="center">
