@@ -3,8 +3,8 @@
 
 <div align="center">
       
-
-  ![221780](https://github.com/ravidinejad/ravidinejad/assets/125472137/b47fca4a-4b0d-4a55-a64b-f3206b570325)
+ <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/b47fca4a-4b0d-4a55-a64b-f3206b570325" width="300px">
+  
 
     
   
