@@ -3,8 +3,9 @@
 
 <div align="center">
       
- <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/953126a2-d1ae-4098-b705-520744012e77" width="300px">
+ <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/c7d63a06-e64e-4fd4-ba15-bd65bb829e3d" width="300px">
 </div>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" 
