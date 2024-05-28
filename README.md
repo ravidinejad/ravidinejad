@@ -2,9 +2,10 @@
 <h3 align="center">Jika kamu cari yang sempurna aku mundur, jika kamu cari mie ayam aku nitip</h3>
 
 <div align="center">
-      <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/4d21a095-38ea-4474-ad39-ac3b70a16832" width="300px">
+      
 
-  
+  ![221780](https://github.com/ravidinejad/ravidinejad/assets/125472137/b47fca4a-4b0d-4a55-a64b-f3206b570325)
+
     
   
 
