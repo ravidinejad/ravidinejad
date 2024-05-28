@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" />
+     <img src=" https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19354838" alt="ravidinejad" />
+  https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19354838
 </p>
 
 <h2 align="center">Connect with me:</h2>
