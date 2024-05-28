@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ravi Dinejad</h1>
 <h3 align="center">Jika kamu cari yang sempurna aku mundur, jika kamu cari mie ayam aku nitip</h3>
 
+<div align="center">
+    <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" />
 </p>
