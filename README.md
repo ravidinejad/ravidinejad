@@ -6,8 +6,8 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" />
-     <div class="tenor-gif-embed" data-postid="19354838" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/gojo-satoru-jujutsu-kaisen-gif-19354838">Gojo Satoru Jujutsu Kaisen GIF</a>from <a href="https://tenor.com/search/gojo+satoru-gifs">Gojo Satoru GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" 
+      
 </p>
 
 <h2 align="center">Connect with me:</h2>
