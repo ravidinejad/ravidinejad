@@ -3,11 +3,13 @@
 
 <div align="center">
     <img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+    ![gojo-gojo-satoru](https://github.com/ravidinejad/ravidinejad/assets/125472137/4d21a095-38ea-4474-ad39-ac3b70a16832)
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ravidinejad&label=Profile%20views&color=0e75b6&style=flat" alt="ravidinejad" 
-      ![gojo-gojo-satoru](https://tenor.com/view/gojo-gojo-satoru-satoru-gojo-jjk-jujutsu-kaisen-gif-14813374835611323395)
+
+
 </p>
 
 <h2 align="center">Connect with me:</h2>
