@@ -18,5 +18,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravidinejad&" alt="ravidinejad" /></p>
 
-![Animasi ular](https://raw.githubusercontent.com/thepiyushmalhotra/thepiyushmalhotra/output/github-contribution-grid-snake.svg)
+ <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
