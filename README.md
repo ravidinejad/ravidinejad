@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<img src="https://giphy.com/embed/uKPsJbRnfqJH0YSHIo" width="300px">
+
+<img src="https://github.com/user-attachments/assets/254aee07-ce22-4f19-bee3-88901e61d421" width="300px">
  <img src="https://github.com/ravidinejad/ravidinejad/assets/125472137/c7d63a06-e64e-4fd4-ba15-bd65bb829e3d" width="300px">
 </div>
 
